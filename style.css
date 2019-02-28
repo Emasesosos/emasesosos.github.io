@@ -1,4 +1,13 @@
 
+body {
+    background:url(bg.jpg), #000;
+    background-size:cover;
+}
+
 .main-container {
     margin-top: 50px;
+}
+
+h1, p {
+    color: aliceblue;
 }
