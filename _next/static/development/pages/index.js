@@ -453,7 +453,7 @@ var _jsxFileName = "C:\\Users\\JEmma\\OneDrive\\Documentos\\06-Udemy\\02-Desarro
 
 
 var Precio = function Precio(props) {
-  // console.log(props);
+  console.log(props);
   var _props$precio = props.precio,
       price = _props$precio.price,
       percent_change_1h = _props$precio.percent_change_1h,
@@ -11137,7 +11137,7 @@ _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(f
         case 2:
           precio = _context.sent;
           _context.next = 5;
-          return isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_7___default()('https://newsapi.org/v2/everything?q=bitcoin&from=2019-05-22&sortBy=publishedAt&apiKey=36ab97c3f38b4a879b7259e94b29843e&language=es');
+          return isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_7___default()('https://newsapi.org/v2/everything?q=bitcoin&sortBy=publishedAt&apiKey=6c1c1dfcb4a943c7bf481bc628b80153&language=es');
 
         case 5:
           noticias = _context.sent;
