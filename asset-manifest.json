@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.013dd1b0.chunk.css",
-    "main.js": "/static/js/main.5403fb13.chunk.js",
-    "main.js.map": "/static/js/main.5403fb13.chunk.js.map",
+    "main.js": "/static/js/main.b6f73d96.chunk.js",
+    "main.js.map": "/static/js/main.b6f73d96.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7722065e.chunk.js": "/static/js/2.7722065e.chunk.js",
-    "static/js/2.7722065e.chunk.js.map": "/static/js/2.7722065e.chunk.js.map",
+    "static/js/2.0005cadb.chunk.js": "/static/js/2.0005cadb.chunk.js",
+    "static/js/2.0005cadb.chunk.js.map": "/static/js/2.0005cadb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0f21a7eaac0342bace05c3ea152fcb5b.js": "/precache-manifest.0f21a7eaac0342bace05c3ea152fcb5b.js",
+    "precache-manifest.88413e2a79f8e9901e046d070ccdf880.js": "/precache-manifest.88413e2a79f8e9901e046d070ccdf880.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.013dd1b0.chunk.css.map": "/static/css/main.013dd1b0.chunk.css.map",
-    "static/media/fbLogo.svg": "/static/media/fbLogo.497ef353.svg",
+    "static/media/fbLogo.svg": "/static/media/fbLogo.b451d150.svg",
     "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
     "static/media/reduxLogo.svg": "/static/media/reduxLogo.8db50107.svg"
   }
